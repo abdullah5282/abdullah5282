@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Himanshu Bungla</h1>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">I'm a Third year computer science student at VIT.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshubungla&label=Profile%20views&color=0e75b6&style=flat" alt="himanshubungla" /> </p>
