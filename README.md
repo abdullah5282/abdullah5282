@@ -8,11 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/AbdullahMoonis" target="blank"><img src="https://img.shields.io/twitter/follow/AbdullahMoonis?logo=twitter&style=for-the-badge" alt="AbdullahMoonis" /></a> </p> 
 
-- 🌱 I’m currently learning **Web Development , AI-ML**
+- 🌱 I’m currently learning **Web Development And Machine Learning**
 
-- 👯 I’m open for collaborations on **Web Development project**
-
-- 💬 Ask me about **python**
+- 👯 I’m open for collaborations on **Web Development project's**
 
 - 📫 How to reach me **abdullahmoonis567@gmail.com**
 
