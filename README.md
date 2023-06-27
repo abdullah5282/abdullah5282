@@ -7,7 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah5282" alt="abdullah5282" /></a> </p>
 <!-- []() -->
 
-<p align="left"> <a href="https://twitter.com/AbdullahMoonis" target="blank"><img src="https://img.shields.io/twitter/follow/AbdullahMoonis?logo=twitter&style=for-the-badge" alt="AbdullahMoonis" /></a> </p> 
 
 ## Skills and Experience 
 * <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
