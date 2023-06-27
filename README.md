@@ -32,10 +32,6 @@
 
 - 📫 How to reach me **abdullahmoonis567@gmail.com**
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah5282&show_icons=true&locale=en&layout=compact" alt="AbdullahMoonis" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah5282&show_icons=true&locale=en" alt="AbdullahMoonis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah5282&" alt="AbdullahMoonis" /></p>
