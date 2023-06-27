@@ -26,12 +26,6 @@
 </p> -->
 
 
-- 🌱 I’m currently learning **Web Development And Machine Learning**
-
-- 👯 I’m open for collaborations on **Web Development project's**
-
-- 📫 How to reach me **abdullahmoonis567@gmail.com**
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah5282&show_icons=true&locale=en" alt="AbdullahMoonis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah5282&" alt="AbdullahMoonis" /></p>
