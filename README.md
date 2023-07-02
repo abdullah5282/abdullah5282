@@ -19,7 +19,7 @@
 
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abdullah5282&count_private=true&show_icons=true&theme=dark" width="400" margin-top="10px"></a> 
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=abdullah5282&count_private=true&show_icons=true&theme=dark" width="400" margin-top:10px;></a> 
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah5282&count_private=true&show_icons=true&theme=dark" width="400"></a>
 </p> 
 
