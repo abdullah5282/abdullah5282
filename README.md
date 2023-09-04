@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdullah</h1>
 <h3 align="center">I'm a Fourth year computer science student at VIT, Currently learning about various ML technologies.</h3>
 
-<!--## Overview😎-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmoonis5282&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmoonis" /> </p>
+<!--## Overview😎
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmoonis5282&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmoonis" /> </p>-->
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullah5282" alt="abdullah5282" /></a> </p>-->
 
